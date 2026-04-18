@@ -1,0 +1,19 @@
+{
+    "name": "dansware/actividad_acretidable",
+    "description": "Sistema de Parroquia",
+    "autoload": {
+        "psr-4": {
+            "Modelos\\": "modelos/",
+            "Controladores\\": "controladores/",
+            "Vistas\\": "vistas/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dansware03",
+            "email": "dansware2003@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
